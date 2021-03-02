@@ -1,0 +1,13 @@
+ body {
+    /* background: url('../img/man.jpg') !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%; */
+    font-family: 'Open Sans', sans-serif; 
+}
+
+.underline {
+    border-bottom: 2px solid rgba(41, 40, 40, 0.5) !important;
+}
